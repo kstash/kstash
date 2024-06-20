@@ -9,7 +9,7 @@
 - 🏷 python, typescript, docker, CI/CD, automation, NoSQL, IoT(rpi), etc. 
 - 🌐 [Private Blog](https://blog.seungtae.com)
 - 📬 <stash@seungtae.com>
-- 💼 <recruit@seungtae.com>
+
 
 <br />
 <p align="center">
@@ -18,7 +18,10 @@
   <a href="https://kr.linkedin.com/in/seungtaekim1996"><img src="https://img.shields.io/badge/LinkedIn-kstash-0077b5.svg?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
----------------
-## This is my Resume!
-[ENG 🇺🇸](https://resume.seungtae.com/en)
-[KOR 🇰🇷](https://resume.seungtae.com/kr)
+
+## Check my Resume!
+🇺🇸 [English ver](https://resume.seungtae.com/en)
+<br />
+🇰🇷 [Korean ver](https://resume.seungtae.com/kr)
+<br />
+Contact me by my recruit mail 💼 <recruit@seungtae.com>
