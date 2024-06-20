@@ -7,4 +7,12 @@
 - 🥰 Love Movies 🍿
 - 🎓 B.E. in 💻 / Software
 - 🏷 python, typescript, docker, CI/CD, automation, NoSQL, IoT(rpi), etc. 
-- 🌐 https://blog.seungtae.kr
+- 🌐 https://blog.seungtae.com
+- 💼 recruit@seungtae.com
+
+<br />
+<p align="center">
+  <a href="https://github.com/kstash"><img src="https://img.shields.io/github/followers/kstash.svg?label=GitHub&style=social" alt="GitHub" /></a>
+  <a href="https://blog.seungtae.com"><img src="https://img.shields.io/badge/blog-blog.seungtae.com-202020.svg" alt="Blog" /></a>
+  <a href="https://kr.linkedin.com/in/seungtaekim1996"><img src="https://img.shields.io/badge/LinkedIn-kstash-0077b5.svg?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+</p>
