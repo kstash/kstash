@@ -4,11 +4,12 @@
 
 - 👨🏻‍💻 Software Engineer
 - 🇰🇷 From South Korea
-- 🥰 Love Movies 🍿
+- 🥰 Love Movies 🍿 and traveling 🧭
 - 🎓 B.E. in 💻 / Software
 - 🏷 python, typescript, docker, CI/CD, automation, NoSQL, IoT(rpi), etc. 
-- 🌐 https://blog.seungtae.com
-- 💼 recruit@seungtae.com
+- 🌐 [Private Blog](https://blog.seungtae.com)
+- 📬 <stash@seungtae.com>
+- 💼 <recruit@seungtae.com>
 
 <br />
 <p align="center">
