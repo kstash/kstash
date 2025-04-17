@@ -1,7 +1,5 @@
 ## Let me introduce myself! 👋🏻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkstash&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 - 👨🏻‍💻 Software Engineer
 - 🇰🇷 From South Korea
 - 🥰 Love Movies 🍿 and traveling 🧭
@@ -24,4 +22,4 @@
 <br />
 🇰🇷 [Korean ver](https://resume.seungtae.com/kr)
 <br />
-Contact me by my recruit mail 💼 <recruit@seungtae.com>
+Contact me by my mail 💼 <stash@seungtae.com>
