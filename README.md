@@ -3,8 +3,8 @@
 - 👨🏻‍💻 Software Engineer
 - 🎓 B.S. in 💻 / Computer Convergence Software
 - 🏷 Python, Node.js, Docker, CI/CD, NoSQL, IoT(rpi)
-- 🌐 [Visit to checkout my CV](https://seungtae.com)
-- 📬 Contact me by my mail 💼 <mailto:stash@seungtae.com>
+- 🌐 Click to checkout my [CV](https://seungtae.com)
+- 📬 Contact me by my [Email](mailto:stash@seungtae.com)
 
 
 <br />
@@ -17,7 +17,7 @@
 
 ## Check my Resume!
 🇺🇸 [English ver](https://seungtae.com/resume-en.v4.pdf)
-<br />
-🇰🇷 [Korean version](https://resume.seungtae.com/resume-kr.v4.pdf)
-<br />
+<br/>
+🇰🇷 [Korean version](https://seungtae.com/resume-kr.v4.pdf)
+<br/>
 
