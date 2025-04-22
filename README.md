@@ -16,7 +16,7 @@
 
 
 ## Check my Resume!
-🇺🇸 [English ver](https://seungtae.com/resume-en.v4.pdf)
+🇺🇸 [English version](https://seungtae.com/resume-en.v4.pdf)
 <br/>
 🇰🇷 [Korean version](https://seungtae.com/resume-kr.v4.pdf)
 <br/>
