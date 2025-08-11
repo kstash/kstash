@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Software Engineer
 - 🎓 B.S. in 💻 / Computer Convergence Software
-- 🏷 Python, Node.js, Docker, CI/CD, NoSQL, IoT(rpi)
+- 🏷 Python, Node.js, Docker, CI/CD, MongoDB, PostgreSQL, MySQL, Redis
 - 🌐 Click to checkout my [CV]([https://seungtae.com](https://seungtae.com/))
 - 📬 Contact me by my [Email](mailto:stash@seungtae.com)
 
@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://github.com/kstash"><img src="https://img.shields.io/github/followers/kstash.svg?label=GitHub&style=social" alt="GitHub" /></a>
   <a href="https://seungtae.com"><img src="https://img.shields.io/badge/blog-seungtae.com-202020.svg" alt="Blog" /></a>
-  <a href="https://kr.linkedin.com/in/stash-korea"><img src="https://img.shields.io/badge/LinkedIn-kstash-0077b5.svg?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 
